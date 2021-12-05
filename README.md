@@ -1,4 +1,4 @@
-# pmChatBot
+# pmChatBotpro
 A simple feed-back bot written in [Boting](https://github.com/Quiec/Boting). It is similar to the Livegram bot.
 
 [🇹🇷 Türkçe](https://github.com/Quiec/pmChatBot/blob/master/README-tr.md) | [🇬🇧 English](https://github.com/Quiec/pmChatBot/blob/master/README.md) 
